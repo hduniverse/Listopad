@@ -1,0 +1,34 @@
+[
+  {
+    "Description": "Pink birthday card with hearts and a butterfly",
+    "Price": 12.99,
+    "ProductCode": "heart",
+    "ProductId": 1,
+    "ProductName": "Birthday heart",
+    "ReleaseDate": "2009-03-19T00:00:00-07:00"
+  },
+  {
+    "Description": "Bride and groom walking down the isle",
+    "Price": 12.99,
+    "ProductCode": "wedding",
+    "ProductId": 2,
+    "ProductName": "Let's walk this one together",
+    "ReleaseDate": "2010-03-18T00:00:00-07:00"
+  },
+  {
+    "Description": "Wedding congratulations",
+    "Price": 9.99,
+    "ProductCode": "sea",
+    "ProductId": 3,
+    "ProductName": "Sea fortunes",
+    "ReleaseDate": "2012-03-18T00:00:00-07:00"
+  },
+  {
+    "Description": "a bunch of spring flowers and easter eggs",
+    "Price": 6.99,
+    "ProductCode": "spring",
+    "ProductId": 4,
+    "ProductName": "Happy Easter",
+    "ReleaseDate": "2013-03-22T00:00:00-07:00"
+  }
+]
